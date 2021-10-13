@@ -14,20 +14,6 @@
       "description": "## Review Home.js\n\nThere are lots of changes, here, let's go through them together."
     },
     {
-      "file": "astra-tik-tok/functions/post.js",
-      "selection": {
-        "start": {
-          "line": 21,
-          "character": 13
-        },
-        "end": {
-          "line": 21,
-          "character": 47
-        }
-      },
-      "description": "## Update the stringify call in post.js\n\n```jsx\nbody: JSON.stringify(Object.keys(res).map((i) => res[i])),\n```"
-    },
-    {
       "file": "astra-tik-tok/src/pages/Home.js",
       "title": "Update the imports",
       "selection": {
